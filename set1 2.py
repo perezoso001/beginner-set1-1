@@ -1,4 +1,4 @@
-a=int(input("enter ur value"))
+a=int(input())
 b=a+a
 if b<a:
 	print "invalid number"
